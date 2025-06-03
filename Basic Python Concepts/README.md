@@ -17,4 +17,4 @@ This repository includes two beginner-level Python programs:
 - Run each script using the command:
 ```bash
 python task1_math_operations.py
-python task2_greeting.py
+python Task2_personalized_greeting.py
