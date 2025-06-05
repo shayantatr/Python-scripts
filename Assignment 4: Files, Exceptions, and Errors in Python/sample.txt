@@ -1,2 +1,0 @@
-Line 1 : This is a sample text file.
-Line 2 : It contains multiple line.
