@@ -4,7 +4,6 @@
 
 numbers = int(input("Enter an Integer Number: "))
 
-
 # 2. Checks whether the number is even or odd using an if-else statement.
 
 if numbers % 2 == 0:
